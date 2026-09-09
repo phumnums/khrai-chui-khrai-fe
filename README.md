@@ -143,3 +143,4 @@ src/
   utils/format.js         # ฟอร์แมตเงินบาท
   styles/index.css        # ธีมสี/สไตล์ทั้งหมด
 ```
+# khrai-chui-khrai-fe
