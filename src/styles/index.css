@@ -504,6 +504,7 @@ input {
 }
 
 .person-card {
+  background: #fff;
   border: 1px solid var(--border);
   border-radius: var(--radius-md);
   padding: 14px 16px;
@@ -516,7 +517,6 @@ input {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  color: #fff;
 }
 
 .person-card-top .name {
