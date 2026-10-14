@@ -6,7 +6,7 @@ Frontend application for **Khrai Chui Khrai**, a web application that helps peop
 
 Try the live application: [Khrai Chui Khrai](https://khrai-chui-khrai-fe.vercel.app/)
 
-![Khrai Chui Khrai Demo](./public/demo.gif)
+![Khrai Chui Khrai Demo](./demo-KhraiChuiKhrai.gif)
 
 ## Overview
 
