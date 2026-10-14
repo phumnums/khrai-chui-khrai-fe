@@ -2,6 +2,12 @@
 
 Frontend application for **Khrai Chui Khrai**, a web application that helps people calculate how much each person should pay when sharing purchases through the Thai government subsidy program.
 
+## Demo
+
+Try the live application: [Khrai Chui Khrai](https://khrai-chui-khrai-fe.vercel.app/)
+
+![Khrai Chui Khrai Demo](./public/demo.gif)
+
 ## Overview
 
 When multiple people buy items together, one person may pay the bill using the Thai government subsidy program. Since each person may purchase items of different values, splitting the actual payment equally may not be fair.
