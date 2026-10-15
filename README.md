@@ -143,4 +143,7 @@ Configure the following environment variable in the Vercel project settings:
 
 After updating environment variables, redeploy the application for the changes to take effect.
 
+## License
+
+See the repository's LICENSE file if a license has been added.
 
